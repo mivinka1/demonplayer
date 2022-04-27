@@ -9,16 +9,16 @@
 </p>
 <p align="center">
     <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-black.svg?style=flat-square&logo=python&logoColor=blue&color=red" /></a>
-    <a href="https://github.com/marrk85/Music-Video/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-red.svg?style=flat-square" /></a>
+    <a href="https://github.com/mivinka1/demonplayer/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-red.svg?style=flat-square" /></a>
     <a href="https://app.codacy.com/gh/marrk85/Music-Video/dashboard"> <img src="https://img.shields.io/codacy/grade/a723cb464d5a4d25be3152b5d71de82d?color=red&logo=codacy&style=flat-square" alt="Codacy" /></a><br>
-    <a href="https://github.com/marrk85/Music-Video"> <img src="https://img.shields.io/github/repo-size/marrk85/Music-Video?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
-    <a href="https://github.com/marrk85/Music-Video/commits/main"> <img src="https://img.shields.io/github/last-commit/marrk85/Music-Video?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
-    <a href="https://github.com/marrk85/Music-Video/issues"> <img src="https://img.shields.io/github/issues/marrk85/Music-Video?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
-    <a href="https://github.com/marrk85/Music-Video/network/members"> <img src="https://img.shields.io/github/forks/marrk85/Music-Video?color=red&logo=github&logoColor=blue&style=flat-square" /></a>  
-    <a href="https://github.com/marrk85/Music-Video/network/members"> <img src="https://img.shields.io/github/stars/marrk85/Music-Video?color=red&logo=github&logoColor=blue&style=flat-square" /></a>  
+    <a href="https://github.com/mivinka1/demonplayer"> <img src="https://img.shields.io/github/repo-size/mivinka1/demonplayero?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
+    <a href="https://github.com/mivinka1/demonplayer/commits/main"> <img src="https://img.shields.io/github/last-commit/mivinka1/demonplayer?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
+    <a href="https://github.com/mivinka1/demonplayer/issues"> <img src="https://img.shields.io/github/issues/mivinka1/demonplayer?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
+    <a href="https://github.com/mivinka1/demonplayer/network/members"> <img src="https://img.shields.io/github/forks/mivinka1/demonplayer?color=red&logo=github&logoColor=blue&style=flat-square" /></a>  
+    <a href="https://github.com/mivinka1/demonplayer/network/members"> <img src="https://img.shields.io/github/stars/mivinka1/demonplayer?color=red&logo=github&logoColor=blue&style=flat-square" /></a>  
 </p>
 
-Can be found on Telegram as [Marrk Bot ❤](https://t.me/Jmhaiabr>
+Can be found on Telegram as [Marrk Bot ❤](https://t.me/oangelangelangelo>
 
 ### 🔎 Support Inline Search
 
@@ -38,7 +38,7 @@ Can be found on Telegram as [Marrk Bot ❤](https://t.me/Jmhaiabr>
 ## Heroku Deployment <img src="./ImageFont/Kenred.gif" width="40px">
 The easy way to host this bot, deploy to Heroku.
 Click On The Image To Deploy
-[![Deploy](https://te.legra.ph/file/131da17a823ddcb96f2f5.jpg)](https://heroku.com/deploy?template=https://github.com/marrk85/Music-Video)
+[![Deploy](https://te.legra.ph/file/131da17a823ddcb96f2f5.jpg)](https://heroku.com/deploy?template=https://github.com/mivinka1/demonplayer)
 
 ## VPS Deployment 🎵
 Get the best Quality of streaming performance by hosting it on VPS, here's the step's:
@@ -60,12 +60,3 @@ python3 main.py # run the bot.
 # continue the host with screen or anything else, thanks for reading.
 ```
 
-# Credits 💖
-
-- [Marrk](https://github.com/marrk85) ``Dev``
-- [Kaka](https//gitHub.com/kaka026) ``Dev``
-- [Veez Music](https://github.com/levina-lab/veezmusic) Veez Music
-------
-## Telegram Support & Updates 🏢
-- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/marrkmusic)
-- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/marrkHelpBots)
