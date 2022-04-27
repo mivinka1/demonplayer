@@ -18,7 +18,7 @@
     <a href="https://github.com/mivinka1/demonplayer/network/members"> <img src="https://img.shields.io/github/stars/mivinka1/demonplayer?color=red&logo=github&logoColor=blue&style=flat-square" /></a>  
 </p>
 
-Can be found on Telegram as [Marrk Bot ❤](https://t.me/oangelangelangelo>
+Can be found on Telegram as (https://t.me/oangelangelangelo>
 
 ### 🔎 Support Inline Search
 
